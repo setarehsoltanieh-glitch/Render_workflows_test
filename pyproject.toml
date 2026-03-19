@@ -6,4 +6,5 @@ dependencies = [
     "render_sdk>=0.6.0",
     "python-dotenv",
     "dotenv>=0.9.9",
+    "openai>=2.29.0",
 ]
