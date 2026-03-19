@@ -1,7 +1,7 @@
 from render_sdk import Workflows, RenderAsync
 from pydantic import BaseModel
 
-from tools import search_web, search_reddit, generate_report, write_file, create_plan
+from main import search_web, search_reddit, generate_report, write_file, create_plan
 from models import Plan
 
 
