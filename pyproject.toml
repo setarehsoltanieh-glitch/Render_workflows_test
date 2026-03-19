@@ -1,0 +1,9 @@
+[project]
+name = "render-workflows-test"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "render_sdk>=0.6.0",
+    "python-dotenv",
+    "dotenv>=0.9.9",
+]
